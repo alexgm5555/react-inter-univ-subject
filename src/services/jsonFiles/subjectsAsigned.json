@@ -1,0 +1,92 @@
+[
+  {
+    "uuid": "200001",
+    "uuidStudent": "100001",
+    "uuidSubject": "1"
+  },
+  {
+    "uuid": "200002",
+    "uuidStudent": "100001",
+    "uuidSubject": "3"
+  },
+  {
+    "uuid": "200003",
+    "uuidStudent": "100001",
+    "uuidSubject": "5"
+  },
+  {
+    "uuid": "200004",
+    "uuidStudent": "100002",
+    "uuidSubject": "3"
+  },
+  {
+    "uuid": "200005",
+    "uuidStudent": "100002",
+    "uuidSubject": "7"
+  },
+  {
+    "uuid": "200006",
+    "uuidStudent": "100002",
+    "uuidSubject": "9"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100003",
+    "uuidSubject": "9"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100003",
+    "uuidSubject": "1"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100003",
+    "uuidSubject": "4"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100004",
+    "uuidSubject": "1"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100004",
+    "uuidSubject": "5"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100004",
+    "uuidSubject": "2"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100005",
+    "uuidSubject": "2"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100005",
+    "uuidSubject": "8"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100005",
+    "uuidSubject": "9"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100006",
+    "uuidSubject": "3"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100006",
+    "uuidSubject": "6"
+  },
+  {
+    "uuid": "200007",
+    "uuidStudent": "100006",
+    "uuidSubject": "4"
+  }
+]

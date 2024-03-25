@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "uuid": "101",
+      "name": "Luis García",
+      "rol": "Teacher",
+      "country": "España"
+    },
+    {
+      "uuid": "102",
+      "name": "María Martínez",
+      "rol": "Teacher",
+      "country": "España"
+    },
+    {
+      "uuid": "103",
+      "name": "Juan López",
+      "rol": "Teacher",
+      "country": "España"
+    },
+    {
+      "uuid": "104",
+      "name": "Ana Sánchez",
+      "rol": "Teacher",
+      "country": "España"
+    },
+    {
+      "uuid": "105",
+      "name": "David Rodríguez",
+      "rol": "Teacher",
+      "country": "España"
+    },
+    {
+      "uuid": "100001",
+      "name": "Carlos Pérez",
+      "rol": "Student",
+      "country": "España"
+    },
+    {
+      "uuid": "100002",
+      "name": "Laura Gómez",
+      "rol": "Student",
+      "country": "EEUU"
+    },
+    {
+      "uuid": "100003",
+      "name": "Sofía Fernández",
+      "rol": "Student",
+      "country": "EEUU"
+    },
+    {
+      "uuid": "100004",
+      "name": "Pablo Díaz",
+      "rol": "Student",
+      "country": "España"
+    },
+    {
+      "uuid": "100005",
+      "name": "Elena Rubio",
+      "rol": "Student",
+      "country": "EEUU"
+    },
+    {
+      "uuid": "100006",
+      "name": "Miguel Ruiz",
+      "rol": "Student",
+      "country": "España"
+    },
+    {
+      "uuid": "100007",
+      "name": "Carmen Alonso",
+      "rol": "Student",
+      "country": "EEUU"
+    },
+    {
+      "uuid": "100008",
+      "name": "Javier Herrera",
+      "rol": "Student",
+      "country": "EEUU"
+    },
+    {
+      "uuid": "100009",
+      "name": "Isabel López",
+      "rol": "Teacher",
+      "country": "España"
+    },
+    {
+      "uuid": "100010",
+      "name": "Jorge Martín",
+      "rol": "Teacher",
+      "country": "España"
+    },
+    {
+      "uuid": "100011",
+      "name": "Marina Castro",
+      "rol": "Teacher",
+      "country": "España"
+    },
+    {
+      "uuid": "100012",
+      "name": "Diego Navarro",
+      "rol": "Teacher",
+      "country": "España"
+    },
+    {
+      "uuid": "999999",
+      "name": "Usuario de prueba",
+      "rol": "Student",
+      "country": "EEUU"
+    }
+  ]
+}

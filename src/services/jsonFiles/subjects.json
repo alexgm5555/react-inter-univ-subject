@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "uuid": "1",
+      "uuidTeacher": "101",
+      "name": "Matemáticas",
+      "numCredits": 3,
+      "days": ["Lunes", "Miércoles", "Viernes"],
+      "hour": "8:00 - 9:30"
+    },
+    {
+      "uuid": "2",
+      "uuidTeacher": "102",
+      "name": "Historia",
+      "numCredits": 3,
+      "days": ["Martes", "Jueves"],
+      "hour": "10:00 - 11:30"
+    },
+    {
+      "uuid": "3",
+      "uuidTeacher": "103",
+      "name": "Literatura",
+      "numCredits": 3,
+      "days": ["Lunes", "Miércoles", "Viernes"],
+      "hour": "11:30 - 13:00"
+    },
+    {
+      "uuid": "4",
+      "uuidTeacher": "104",
+      "name": "Ciencias",
+      "numCredits": 3,
+      "days": ["Martes", "Jueves"],
+      "hour": "14:00 - 15:30"
+    },
+    {
+      "uuid": "5",
+      "uuidTeacher": "105",
+      "name": "Inglés",
+      "numCredits": 3,
+      "days": ["Lunes", "Miércoles", "Viernes"],
+      "hour": "15:30 - 17:00"
+    },
+    {
+      "uuid": "6",
+      "uuidTeacher": "101",
+      "name": "Educación Física",
+      "numCredits": 3,
+      "days": ["Martes", "Jueves"],
+      "hour": "17:30 - 18:30"
+    },
+    {
+      "uuid": "7",
+      "uuidTeacher": "102",
+      "name": "Arte",
+      "numCredits": 3,
+      "days": ["Lunes", "Miércoles", "Viernes"],
+      "hour": "18:30 - 19:30"
+    },
+    {
+      "uuid": "8",
+      "uuidTeacher": "103",
+      "name": "Música",
+      "numCredits": 3,
+      "days": ["Martes", "Jueves"],
+      "hour": "19:30 - 20:30"
+    },
+    {
+      "uuid": "9",
+      "uuidTeacher": "104",
+      "name": "Tecnología",
+      "numCredits": 3,
+      "days": ["Lunes", "Miércoles", "Viernes"],
+      "hour": "20:30 - 22:00"
+    },
+    {
+      "uuid": "10",
+      "uuidTeacher": "105",
+      "name": "Geografía",
+      "numCredits": 3,
+      "days": ["Martes", "Jueves"],
+      "hour": "22:00 - 23:30"
+    }
+  ]
+}
